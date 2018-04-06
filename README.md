@@ -1,5 +1,5 @@
 ## Use python 3.4.2
-##### Syntax ini menggunakan fungsi dictionary
+## Syntax ini menggunakan fungsi dictionary
 
 ## dictionary yang akan dieksekusi
 ```javascript
