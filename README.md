@@ -1,7 +1,7 @@
 ## Use python 3.4.2
 ## Syntax ini menggunakan fungsi dictionary
 
-###### dictionary yang akan dieksekusi
+## dictionary yang akan dieksekusi
 ```javascript
 a = {'Jane Doe' : '+27 555 5367', 'John Smith' : '+27 555 6254', 'Bob Stone' : '+27 555 5689'}
 ```
